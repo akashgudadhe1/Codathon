@@ -3,8 +3,13 @@ Think About it :
 2. What is endl in cpp ?
 3. I will solve this question easily, really ?
 4. How to use github to publish your code on github ?
-5. How it feels after successful submission of your code is very fantastic moment.
+5. Feeling of getting AC on codechef is awesome.
 6. Dont wait for perfect moment to start learning something because every moment is perfect moment.
 7. How to find size of array in cpp ?
 8. How to calculate factorial of big numbers like 100 ? (factorial of 100 contains ~138 digits which is not capable to store by predefined data types in cpp)
 9. How to sort array automatically using stl library in c++ ?
+10. Space Optimized boolean vector
+11. Command line arguments tricks
+12. Power of STL 
+13. Optimized Prime Number generation logic
+14. upper_bound in c++ stl
