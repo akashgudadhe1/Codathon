@@ -12,4 +12,4 @@ Think About it :
 11. Command line arguments tricks
 12. Power of STL 
 13. Optimized Prime Number generation logic
-14. 
+14. upper_bound in c++ stl
