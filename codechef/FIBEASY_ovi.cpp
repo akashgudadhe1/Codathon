@@ -4,13 +4,14 @@
 
 #include <bits/stdc++.h>
 using namespace std;
- 
+
 int main()
 {
-   int long t, n, t_itr, k;
+   int long t, n, k;
    int ans[] = {0,9,2,3};
    cin >> t;
-   for (t_itr = 0; t_itr < t; t_itr++)
+
+   while(t--)
    {
      cin >> n;
      if (n == 1) {cout <<0<<endl;}
@@ -29,5 +30,5 @@ int main()
      }
    }
    return 0;
-   
+
 }
