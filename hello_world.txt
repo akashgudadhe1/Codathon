@@ -1,0 +1,3 @@
+Use of getline() in cpp
+getline(cin, variable_name)
+cin null character ko delemeter maanta hai

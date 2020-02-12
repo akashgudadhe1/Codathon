@@ -1,0 +1,18 @@
+MYSQL HandsON
+
+What is database ?
+Categories of databases.
+What is MySQL database ?
+What is MARIA DB ?
+What are database engines for MySQL? Why we have multiple engines ?
+
+What is SQL ?
+What is table ?
+
+How to install MySQL in Linux, Windows ?
+How to view, select databases ?
+How to view tables in selected database ?
+How to change MySQL password ?
+
+
+
