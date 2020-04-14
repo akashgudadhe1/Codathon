@@ -40,5 +40,6 @@ https://www.youtube.com/watch?v=6ZBY9yGNWbI&list=PLzjZaW71kMwTGbP1suqY16w1VSb9ZN
 2. geeksforgeeks tutorials and videos
 3. InterviewBit Academy
 4. https://discuss.codechef.com/  
+5. https://github.com/Pierian-Data/Complete-Python-3-Bootcamp (Jose Portella Python3 bootcamp Udemy)
 
 
