@@ -41,5 +41,23 @@ https://www.youtube.com/watch?v=6ZBY9yGNWbI&list=PLzjZaW71kMwTGbP1suqY16w1VSb9ZN
 3. InterviewBit Academy
 4. https://discuss.codechef.com/  
 5. https://github.com/Pierian-Data/Complete-Python-3-Bootcamp (Jose Portella Python3 bootcamp Udemy)
+6. https://www.ritambhara.in/category/algorithm/
+
+Ongoing Contests For Begineers in CP
+
+1. DSA Learning Series 
+https://www.codechef.com/LEARNDSA?itm_campaign=navmenu
+DSA Learning Series is an educational series put together by CodeChef Volunteers. Under this, they will be hosting a new practice contest starting every Monday. These contests will each be covering curated problems from a certain topic(s) along with the resources to learn from.
+
+2. https://www.hackerrank.com/domains/tutorials/30-days-of-code
+
+3. HackerEarth CodeMonk
+Code Monk is a curated list of topics to help you improve your programming skills to the next level. The series focuses on aspiring programmers who aim to be better at coding.
+https://www.hackerearth.com/practice/codemonk/
+
+
+
+
+
 
 
