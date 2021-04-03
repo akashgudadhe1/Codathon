@@ -9,16 +9,14 @@ public class ArrRev{
             end--;
         }
 
-        for(int i=0; i<=end; i++){
-            System.out.println(arr[i]);
+        for(int i=0; i<arr.length; i++){
+            System.out.print(arr[i]+" ");
         }
+        System.out.println();
     }
 
     public static void main(String args[]){
-        int arr[]={1, 2, 3, 4, 5, 6};
-        int start=0;
-        int end=5;
-
-        reverseArray(arr, start, end);
+        int arr[]={1, 2, 3, 4, 5, 6, 7, 10};
+        reverseArray(arr, 0, arr.length-1);
     }
 }
