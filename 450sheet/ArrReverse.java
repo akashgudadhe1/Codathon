@@ -1,4 +1,4 @@
-public class ArrRev{
+public class ArrReverse{
     static void reverseArray(int arr[], int start, int end){
         int temp;
         while(start<end){
